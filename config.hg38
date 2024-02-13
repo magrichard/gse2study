@@ -1,5 +1,5 @@
-gse="lot1"
-project="cometh"
+gse="GSE137143"
+project="thema"
 gsm="GSM2711606"
 species="Homo_sapiens"
 annotation="UCSC"

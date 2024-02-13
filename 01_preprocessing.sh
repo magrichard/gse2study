@@ -1,4 +1,4 @@
-cd ~/projects/cometh/results/lot1
+cd ~/projects/thema/results/20240213
 source config
 echo $gse
 echo $project
